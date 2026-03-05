@@ -16,9 +16,9 @@ public class Day4AssignmentMain {
 		int x=sc.nextInt();
 		
 		
-		AssignmentDay4Q1 e1 = new AssignmentDay4Q1(11,"anur",35);
+		Salary e1 = new Salary(11,"anur",35);
 		
-		AssignmentDay4Q1.Employee q1=e1.new Employee();
+		Salary.Employee q1=e1.new Employee();
 
 		
 		switch(x) {

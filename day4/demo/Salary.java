@@ -2,13 +2,13 @@ package demo;
 
 import java.util.Scanner;
 
-public class AssignmentDay4Q1 {
+public class Salary {
 	
 	int empid;
 	String empname;
 	float empsalary; 
 
-	AssignmentDay4Q1(int id , String name, float basicSalary){
+	Salary(int id , String name, float basicSalary){
 		this.empid=id;
 		this.empname=name;
 		this.empsalary=basicSalary;
