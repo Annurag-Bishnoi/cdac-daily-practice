@@ -129,6 +129,7 @@ public class assignment4main {
 			break;
 			
 		case 4:
+			
 		case 5:
 		case 6:
 			default:
